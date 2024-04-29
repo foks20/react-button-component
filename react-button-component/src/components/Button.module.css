@@ -1,0 +1,6 @@
+.button {
+    border: 5px dotted;
+    background-color: azure;
+    padding: 10px;
+    cursor: pointer;
+}
