@@ -1,6 +1,6 @@
-# react-button-component
+# react-components
 
-This project demonstrates how to create reusable card components in React using Vite. Each card displays an image, a name, and a description.
+This project demonstrates how to create reusable components in React using Vite. Each cardcomponent displays an image, a name, and a description.
 
 ## Requirements
 
